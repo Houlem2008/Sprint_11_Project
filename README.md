@@ -1,9 +1,8 @@
 # Sprint_11_Project
-TripleTen Sprint 11 Final Project
 
-My Sprint 1, Linear Algebra, project. Sprint length was 2 weeks.
+*My Sprint 11, Linear Algebra, project. Sprint length was 2 weeks.*
 
-Instructions provided by TripleTen program:
+***Instructions provided by TripleTen program:***
 
 Congratulations on finishing the Linear Algebra course! It is an essential part of your training as linear algebra is the mathematical foundation for many Machine Learning algorithms.
 
@@ -25,7 +24,7 @@ The Sure Tomorrow insurance company wants to solve several tasks with the help o
 
 It's necessary to develop a data transformation algorithm that would make it hard to recover personal information if the data fell into the wrong hands. This is called data masking, or data obfuscation. But the data should be protected in such a way that the quality of machine learning models doesn't suffer. You don't need to pick the best model, just prove that the algorithm works correctly.
 
-Project Instructions
+**Project Instructions**
 
 1. Load the data.
 2. Check that the data is free of issues — there is no missing data, extreme values, and so on.
@@ -34,14 +33,14 @@ Project Instructions
 
 There is some precode in the project template, feel free to use it, some precode needs to be finished first. Also, there are two appendices in the project template with useful information.
 
-Data Description
+## Data Description
 
-The dataset is stored in file /datasets/insurance_us.csv.
+The dataset is stored in file `/datasets/insurance_us.csv`. [You can download the dataset here'](https://drive.google.com/file/d/11oGbs9n-nIW1cjODdbcV0s-x4gPTsccl/view)
 
-- Features: insured person's gender, age, salary, and number of family members.
-- Target: number of insurance benefits received by an insured person over the last five years.
+- **Features**: insured person's gender, age, salary, and number of family members.
+- **Target**: number of insurance benefits received by an insured person over the last five years.
 
-Project evaluation
+# Project evaluation
 
 We’ve put together the evaluation criteria for the project. Read this carefully before moving on to the task.
 
